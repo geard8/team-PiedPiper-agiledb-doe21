@@ -37,13 +37,13 @@ Participators this assignment:
 
 A big part of this assignment was to get to know and use Scrum as a method for Agile development. We have used scrum and kanban board. 
 
-As part of scrum we have hade daily meeting most days, where every one talk about what they prevusly done, what they plan to do and any hindrens or problem that they may have. 
+As part of scrum we have had daily meeting most days, where everyone talk about what they previously done, what they plan to do and any hindrance or problem that they may have. 
 
-We have had sprint planning meetings decide that we plan do during the next sprint. 
+We have had sprint planning meetings where we decide what we plan to do during the next sprint.
 
-We have had retorepektiv meeting where we check what been good and bad, as well as document importent obsevertion and changes we wish to try out.
+We have had retrospective meeting where we check what have been good and bad, as well as document where we wrote down importent observations and changes we wish to try out.
 
-We have had review meeting to check that thinks that is been has been done in a way the group think is good.
+We have had review meeting to check what has been done in a way the group think is good.
 
 ### Workflow  
 
@@ -53,7 +53,7 @@ We used Trello for managing our kanban board.
 
 ## SQL modelling  
 
-For our logical and physical models we talked with in our group and decided what to have in the database. We documented alot during this assignment and wrote it all down. We have also checked with PO about servral thinks to make it avoid missunderstings and make it more clear that needed. We used both writings in docuemnt, whimsical and PGadmin to create these models.
+For our logical and physical models we talked with in our group and decided what to have in the database. We documented alot during this assignment and wrote it all down. We have also checked with PO about several thinks to make it avoid missunderstandings and make it more clear that needed. We used both writings in document, whimsical and PGadmin to create these models.
   
 
 |[whimsical.com ERD](whimsical_ERD.PNG)|[PGadmin ERD](PGadmin_ERD.PNG)|
