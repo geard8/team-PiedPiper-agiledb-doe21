@@ -56,7 +56,7 @@ We used Trello for managing our kanban board.
 For our logical and physical models we talked with in our group and decided what to have in the database. We documented alot during this assignment and wrote it all down. We have also checked with PO about servral thinks to make it avoid missunderstings and make it more clear that needed. We used both writings in docuemnt, whimsical and PGadmin to create these models.
   
 
-|[Logical model](logical.PNG)|[Physical model](pgamdinerd.PNG)|
+|[whimsical.com ERD](whimsical_ERD.PNG)|[PGadmin ERD](PGadmin_ERD.PNG)|
 |---|---|
 
 
