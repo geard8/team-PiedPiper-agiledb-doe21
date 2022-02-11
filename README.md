@@ -27,11 +27,11 @@ The database is going to be used by an app which has two main functions - a foru
 ## piedpiper 
 
 Participators this assignment:  
-Nicklas Thor
-Bernard Bruna
-Jens Bejerskog
-Hassan Jawdat
-Johnny Agosile
+-Nicklas Thor
+-Bernard Bruna
+-Jens Bejerskog
+-Hassan Jawdat
+-Johnny Agosile
 
 
 ## Agile methods  
