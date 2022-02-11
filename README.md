@@ -5,7 +5,7 @@ Table of contents
 - [u04a-PiedPiper-agile](#u04a-piedpiper-agile)
   - [Purpose](#purpose)
   - [piedpiper](#piedpiper)
-  - [Docmentation](#docmentation)
+  - [Documentation](#documentation)
   - [Agile methods](#agile-methods)
     - [Workflow](#workflow)
   - [SQL modelling](#sql-modelling)
@@ -35,9 +35,9 @@ Participators this assignment:
 
 ___
 
-## Docmentation  
+## Documentation  
 
-Here is our documention than include aktivite log, sprint planning, retospectiv meeting log, and document about dialog with PO 
+Here is our documentation that include's activity log, sprint planning, retrospectiv log and document with our dialogue with PO.
 
 [Here is our documention](u04a_Agile-DB_DOE21_Chas_Academy_Grupp_PiedPiper.pdf).
 
