@@ -13,7 +13,7 @@ Table of contents
 
 ___
 
-This repo is for documentation of assignment u04a-sql-scrum.  
+This repo is for PiedPiper group assignment u04a-sql-scrum.  
   
 The goal of this assignment is to design and implement a SQL database in Postgres.  
 In the design phase we've created a logical model and a physical model to visualise entities, attributes, relationships and constraints.  
@@ -37,7 +37,9 @@ ___
 
 ## Docmentation  
 
-Here is our documention than include aktivite log, sprint planning, retospectiv meeting log, and document about dialog with PO [Here](u04a_Agile-DB_DOE21_Chas_Academy_Grupp_PiedPiper.pdf).
+Here is our documention than include aktivite log, sprint planning, retospectiv meeting log, and document about dialog with PO 
+
+[Here is our documention](u04a_Agile-DB_DOE21_Chas_Academy_Grupp_PiedPiper.pdf).
 
 ___
 
