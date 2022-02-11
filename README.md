@@ -4,14 +4,11 @@ Table of contents
 
 - [u04a-PiedPiper-agile](#u04a-sql-agile)
   - [Purpose](#purpose)
-  - [SQLazy](#sqlazy)
+  - [piedpiper](#piedpiper)
   - [Agile methods](#agile-methods)
     - [Scrum](#scrum)
     - [Workflow](#workflow)
   - [SQL modelling](#sql-modelling)
-  - [SQL usage](#sql-usage)
-    - [User entity](#user-entity)
-    - [User roles](#user-roles)
   - [SQL dumps](#sql-dumps)
 
 ___
@@ -27,7 +24,7 @@ A big part of this assignment was to learn, understand and use scrum to manage w
 
 The database is going to be used by an app which has two main functions - a forum where users can connect to others directly via private messaging or through user-generated groups. The other part of the app is a webbshop where users can buy products.
 
-## SQLazy  
+## piedpiper 
 
 Participators this assignment:  
 Nicklas Thor
