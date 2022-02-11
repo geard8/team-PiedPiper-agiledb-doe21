@@ -5,6 +5,7 @@ Table of contents
 - [u04a-PiedPiper-agile](#u04a-piedpiper-agile)
   - [Purpose](#purpose)
   - [piedpiper](#piedpiper)
+  - [Docmentation](#docmentation)
   - [Agile methods](#agile-methods)
     - [Workflow](#workflow)
   - [SQL modelling](#sql-modelling)
@@ -32,6 +33,13 @@ Participators this assignment:
 -Hassan Jawdat\
 -Johnny Agosile
 
+___
+
+## Docmentation  
+
+Here is our documention than include aktivite log, sprint planning, retospectiv meeting log, and document about dialog with PO [Here](u04a_Agile-DB_DOE21_Chas_Academy_Grupp_PiedPiper.pdf).
+
+___
 
 ## Agile methods  
 
@@ -45,11 +53,15 @@ We have had retrospective meeting where we check what have been good and bad, as
 
 We have had review meeting to check what has been done in a way the group think is good.
 
+___
+
 ### Workflow  
 
 We used Trello for managing our kanban board.  
 ![Screenshot of our Trello board](trello.PNG)  
 &rarr; [Trello board](https://trello.com/b/QheWWuGd/teamprojekt1)  
+
+___
 
 ## SQL modelling  
 
@@ -65,3 +77,5 @@ ___
 ## SQL dumps  
 
 Database dumps are located [Here](Schema_piedpiper_backup_v2.sql).
+
+
