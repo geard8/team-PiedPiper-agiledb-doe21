@@ -27,11 +27,11 @@ The database is going to be used by an app which has two main functions - a foru
 ## piedpiper 
 
 Participators this assignment:  
--Nicklas Thor
--Bernard Bruna
--Jens Bejerskog
--Hassan Jawdat
--Johnny Agosile
+-Nicklas Thor\
+-Bernard Bruna\
+-Jens Bejerskog\
+-Hassan Jawdat\
+-Johnny Agosile\
 
 
 ## Agile methods  
@@ -62,4 +62,4 @@ ___
 
 ## SQL dumps  
 
-Database dumps are located [here].
+Database dumps are located [Schema_piedpiper_backup_v2.sql].
