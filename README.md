@@ -26,10 +26,10 @@ The database is going to be used by an app which has two main functions - a soca
 ## piedpiper 
 
 Participators this assignment:  
--Nicklas Thor
--Bernard Bruna
--Jens Bejerskog
--Hassan Jawdat
+-Nicklas Thor\
+-Bernard Bruna\
+-Jens Bejerskog\
+-Hassan Jawdat\
 -Johnny Agosile
 
 
@@ -64,4 +64,4 @@ ___
 
 ## SQL dumps  
 
-Database dumps are located [here].
+Database dumps are located [Here](Schema_piedpiper_backup_v2.sql).
