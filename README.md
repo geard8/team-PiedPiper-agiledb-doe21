@@ -31,7 +31,7 @@ Participators this assignment:
 -Bernard Bruna\
 -Jens Bejerskog\
 -Hassan Jawdat\
--Johnny Agosile\
+-Johnny Agosile
 
 
 ## Agile methods  
@@ -62,4 +62,4 @@ ___
 
 ## SQL dumps  
 
-Database dumps are located [Schema_piedpiper_backup_v2.sql].
+Database dumps are located [].
