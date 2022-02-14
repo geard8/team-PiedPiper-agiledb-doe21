@@ -22,7 +22,7 @@ A big part of this assignment was to learn, understand and use agile metod to ma
 
 ## Purpose  
 
-The database is going to be used by an app which has two main functions - a socal media part where users can connect to others directly via private messaging or through user-generated groups or post that all can read. The other part of the app is a webbshop where users can buy products.
+The database is going to be used by an app which has two main functions - a socal media part where users can connect to others directly via private messaging or through user-generated groups or post that all can read. The other part of the app is a webshop where users can buy products.
 
 ## piedpiper 
 
@@ -37,7 +37,7 @@ ___
 
 ## Documentation  
 
-Here is our documentation that include's activity log, sprint planning, retrospectiv log and document with our dialogue with PO.
+Here is our documentation that includes activity log, sprint planning, retrospective log and document with our dialogue with PO.
 
 [Here is our documention](u04a_Agile-DB_DOE21_Chas_Academy_Grupp_PiedPiper.pdf).
 
@@ -47,11 +47,11 @@ ___
 
 A big part of this assignment was to get to know and use Scrum as a method for Agile development. We have used scrum and kanban board. 
 
-As part of scrum we have had daily meeting most days, where everyone talk about what they previously done, what they plan to do and any hindrance or problem that they may have. 
+As part of scrum we have had daily meetings most days, where everyone talk about what they previously done, what they plan to do and any hindrance or problem that they may have. 
 
 We have had sprint planning meetings where we decide what we plan to do during the next sprint.
 
-We have had retrospective meeting where we check what have been good and bad, as well as document where we wrote down importent observations and changes we wish to try out.
+We have had retrospective meeting where we check what have been good and bad, as well as document where we wrote down important observations and changes we wish to try out.
 
 We have had review meeting to check what has been done in a way the group think is good.
 
@@ -67,7 +67,7 @@ ___
 
 ## SQL modelling  
 
-For our logical and physical models we talked with in our group and decided what to have in the database. We documented alot during this assignment and wrote it all down. We have also checked with PO about several thinks to make it avoid missunderstandings and make it more clear that needed. We used both writings in document, whimsical and PGadmin to create these models.
+For our logical and physical models we talked with in our group and decided what to have in the database. We documented a lot during this assignment and wrote it all down. We have also checked with PO about several thinks to make it avoid missunderstandings and make it more clear that needed. We used both writings in document, whimsical and PGadmin to create these models.
   
 
 |[whimsical.com ERD](whimsical_ERD.PNG)|[PGadmin ERD](PGadmin_ERD.PNG)|
